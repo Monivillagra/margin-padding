@@ -1,0 +1,42 @@
+h1 {
+	font-size: 17px;
+}
+
+.primero {
+	font-size: 16px;
+	font-family: Times;
+	width: 200px;
+	height: 185px;
+	border-style: solid;
+	border-color: #FA8258;
+	border-width: 2px;
+	padding-left: 0em;
+	padding-right: 1px;
+	padding-bottom: 40px;
+}
+
+.segundo {
+	font-size: 16px;
+	font-family: Times;
+	width: 200px;
+	height: 185px;
+	border-style: solid;
+	border-color: #FA8258;
+	border-width: 2px;
+	padding-left: 0em;
+	padding-right: 1px;
+	padding-bottom: 30px;
+}
+
+.tercero {
+	font-size: 16px;
+	font-family: Times;
+	width: 200px;
+	height: 185px;
+	border-style: solid;
+	border-color: #FA8258;
+	border-width: 2px;
+	padding-left: 0em;
+	padding-right: 1px;
+	padding-bottom: 60px;
+}
